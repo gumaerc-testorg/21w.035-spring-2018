@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Book Talk
+parent_type: CourseSection
 parent_uid: 813ff894-c3fa-466e-d01a-8a8dedd51914
 title: Oral Presentation Rubric
 uid: 48d0b7b7-a08c-0694-e417-690140ecc707
 ---
 
-[< Back to Book Talk]({{< baseurl >}}/pages/assignments/book-talk)
+[\< Back to Book Talk]({{< baseurl >}}/pages/assignments/book-talk)
 
 For each presenter, two listeners will be designated to fill out an evaluation form. The instructor will evaluate each presenter, too. These forms will be skimmed by the instructor and then given to the presenters.
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e62b9eeb-e621-c95b-38a6-f8e3249357b4
 title: Profile Article
 uid: 604d023b-fd0c-30ae-5353-3ae40038d3af

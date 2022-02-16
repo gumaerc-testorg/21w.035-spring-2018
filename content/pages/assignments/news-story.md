@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e62b9eeb-e621-c95b-38a6-f8e3249357b4
 title: News Story
 uid: 907097c0-8302-0ee5-6352-dcf3a2129046
