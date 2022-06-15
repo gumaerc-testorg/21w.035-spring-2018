@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A description of the book talk assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: Book Talk
 uid: 813ff894-c3fa-466e-d01a-8a8dedd51914
 ---
 
-Your oral presentation for this class will be a book talk. You’ll select a book from [the reading list]({{< baseurl >}}/pages/assignments/book-talk/book-talk-reading-list), read the book and report on the book to the class. Approximately 5 minutes per speaker, plus 3–4 minutes of Q&A. Your main task will be to clearly describe the book and interest your audience in it.
+Your oral presentation for this class will be a book talk. You’ll select a book from {{% resource_link e0929fce-bae9-bd05-d801-9075c198bc10 "the reading list" %}}, read the book and report on the book to the class. Approximately 5 minutes per speaker, plus 3–4 minutes of Q&A. Your main task will be to clearly describe the book and interest your audience in it.
 
 Timeline
 --------
@@ -48,7 +49,7 @@ Instructions
 ### The Listeners’ Role:
 
 *   All listeners are meant to really listen.
-*   For each presenter, two listeners will be designated to fill out an [evaluation form]({{< baseurl >}}/pages/assignments/book-talk/oral-presentation-rubric). The instructor will evaluate each presenter, too. These forms will be skimmed by the instructor and then given to the presenters.
+*   For each presenter, two listeners will be designated to fill out an {{% resource_link 48d0b7b7-a08c-0694-e417-690140ecc707 "evaluation form" %}}. The instructor will evaluate each presenter, too. These forms will be skimmed by the instructor and then given to the presenters.
 *   All listeners are encouraged to ask questions of meaning, questions that dig deeper into the book’s content and style, and questions that stem from their own interests and curiosity. 
 
 ### Book Talk Questions
@@ -68,6 +69,6 @@ Requirements:
 -------------
 
 *   5–6 minutes for your talk.
-*   Book chosen from the [book talk reading list]({{< baseurl >}}/pages/assignments/book-talk/book-talk-reading-list).
+*   Book chosen from the {{% resource_link e0929fce-bae9-bd05-d801-9075c198bc10 "book talk reading list" %}}.
 *   Complete the book talk questions.
-*   Listen to and evaluate other talks using the [oral presentation rubric]({{< baseurl >}}/pages/assignments/book-talk/oral-presentation-rubric).
+*   Listen to and evaluate other talks using the {{% resource_link 48d0b7b7-a08c-0694-e417-690140ecc707 "oral presentation rubric" %}}.

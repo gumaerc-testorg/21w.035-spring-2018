@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains the instructions and guidelines for the news story assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

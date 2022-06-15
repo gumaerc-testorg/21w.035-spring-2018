@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This is the instructions and requirements for Essay 1 on the Science
+  of Everyday Life
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

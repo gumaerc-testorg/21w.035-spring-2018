@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the instructions and requirements for the investigative
+  essay.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

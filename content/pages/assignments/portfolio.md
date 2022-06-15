@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains the instructions for the portfolio assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

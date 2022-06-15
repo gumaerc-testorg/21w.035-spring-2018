@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the instructions and deadlines for the profile article
+  assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

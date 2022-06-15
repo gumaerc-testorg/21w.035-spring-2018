@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This includes the summary of all assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Assignments
 uid: e62b9eeb-e621-c95b-38a6-f8e3249357b4
 ---
 
-Please see the [Readings]({{< baseurl >}}/pages/readings) page for detailed information and full citation of readings.
+Please see the {{% resource_link dcb75517-ffd7-a7f5-7e16-014863f0db72 "Readings" %}} page for detailed information and full citation of readings.
 
 Class #1: Class Overview and Introductions, Writing for a General Audience
 --------------------------------------------------------------------------
@@ -29,7 +30,7 @@ Class #2: The Pleasures and Challenges of Science Writing; The Importance of Met
 
 ### Assignment #2: Idea for The Science of Everyday Life
 
-Write a one short paragraph proposal for [_The Science of Everyday Life_]({{< baseurl >}}/pages/assignments/the-science-of-everyday-life)—what would you like to write about? Why? We'll discuss in class.
+Write a one short paragraph proposal for {{% resource_link c3a0f599-f3a7-4c54-0525-ad26d0ca865c "_The Science of Everyday Life_" %}}—what would you like to write about? Why? We'll discuss in class.
 
 ### Readings:
 
@@ -43,7 +44,7 @@ For class discussion: While these essays are different in subject matter and app
 Class #3: Focus, Accuracy, and Making it Fresh; A Writer's Voice
 ----------------------------------------------------------------
 
-### Assignment #3: [The Science of Everyday Life]({{< baseurl >}}/pages/assignments/the-science-of-everyday-life) 
+### Assignment #3: {{% resource_link c3a0f599-f3a7-4c54-0525-ad26d0ca865c "The Science of Everyday Life" %}} 
 
 ### No Assigned Readings
 
@@ -52,7 +53,7 @@ Class #4: Workshop on Essay 1
 
 ### Assignment #4: Workshop Essays, Book Talk
 
-[Re-read and critique]({{< baseurl >}}/pages/assignments/essay-critiques) your workshop partners' _The Science of Everyday Life_ essays. Select a book for your [book talk]({{< baseurl >}}/pages/assignments/book-talk). Feel free to ask me questions about the books.
+{{% resource_link 0db94956-df48-17cd-16d9-d6fe5d0e6e78 "Re-read and critique" %}} your workshop partners' _The Science of Everyday Life_ essays. Select a book for your {{% resource_link 813ff894-c3fa-466e-d01a-8a8dedd51914 "book talk" %}}. Feel free to ask me questions about the books.
 
 ### Readings:
 
@@ -65,7 +66,7 @@ For class discussion: Besides being interesting, both of these essays on medical
 Class #5: Attitudes Towards Writing; What Do We Mean by Revision? 
 ------------------------------------------------------------------
 
-### Assignment #5: Revise [The Science of Everyday Life]({{< baseurl >}}/pages/assignments/the-science-of-everyday-life)
+### Assignment #5: Revise {{% resource_link c3a0f599-f3a7-4c54-0525-ad26d0ca865c "The Science of Everyday Life" %}}
 
 ### Readings:
 
@@ -81,7 +82,7 @@ Class #6: Elements of News Writing; Reading a Scientific Journal, Pt. 1
 
 ### Assignment #6: Proposal for Profile article
 
-Write a proposal for the [profile article]({{< baseurl >}}/pages/assignments/profile-article). Select 2 possible profile subjects and explain their areas of expertise and why you want to write about them. 
+Write a proposal for the {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af "profile article" %}}. Select 2 possible profile subjects and explain their areas of expertise and why you want to write about them. 
 
 ### Readings:
 
@@ -99,7 +100,7 @@ Class #7: The Profile: Writing about Science by Writing
 
 ### Assignment #7: Sketch News Story
 
-Write a preliminary sketch of a [news story]({{< baseurl >}}/pages/assignments/news-story) for one of these articles. 
+Write a preliminary sketch of a {{% resource_link 907097c0-8302-0ee5-6352-dcf3a2129046 "news story" %}} for one of these articles. 
 
 ### Readings:
 
@@ -111,7 +112,7 @@ Either one of these articles could furnish material for a news story in a genera
 Class #8: From Research to News
 -------------------------------
 
-### Assignment #8: Write [News Story]({{< baseurl >}}/pages/assignments/news-story)
+### Assignment #8: Write {{% resource_link 907097c0-8302-0ee5-6352-dcf3a2129046 "News Story" %}}
 
 ### No Assigned Readings
 
@@ -120,7 +121,7 @@ Class #9: Workshop News Stories
 
 ### Assignment #9: Discuss Profile Article Proposals (In Class)
 
-Come to class prepared to discuss your proposal for the [profile article]({{< baseurl >}}/pages/assignments/profile-article).
+Come to class prepared to discuss your proposal for the {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af "profile article" %}}.
 
 ### Readings:
 
@@ -134,7 +135,7 @@ Class #10: Stickgold & Levenson: Elements of a Research-Based Essay; The Researc
 
 ### Assignment #10: Progress Report for Profile Subjects (In Class)
 
-Come to class prepared to give a progress report on your [profile article]({{< baseurl >}}/pages/assignments/profile-article) subjects.
+Come to class prepared to give a progress report on your {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af "profile article" %}} subjects.
 
 ### Readings:
 
@@ -167,7 +168,7 @@ Class #12: Complex Issues: Keeping Readers with You; Getting at the Bigger Pictu
 
 ### Assignment #12: Write Proposal for Investigative Essay
 
-Write a short 1 paragraph proposal for your [investigative essay]({{< baseurl >}}/pages/assignments/investigative-essay).
+Write a short 1 paragraph proposal for your {{% resource_link 6d7b6f32-13e4-c8cf-c485-796d172e9b0e "investigative essay" %}}.
 
 ### Readings:
 
@@ -179,7 +180,7 @@ Write a short 1 paragraph proposal for your [investigative essay]({{< baseurl >}
 Class #13: Library Session
 --------------------------
 
-### Assignment #13: Write [Profile Article]({{< baseurl >}}/pages/assignments/profile-article)
+### Assignment #13: Write {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af "Profile Article" %}}
 
 ### No Assigned Readings
 
@@ -188,7 +189,7 @@ Class #14: Workshop Profile
 
 ### Assignment #14: Revise Proposal for Investigative Essay
 
-Write a revised proposal for the [investigative essay]({{< baseurl >}}/pages/assignments/investigative-essay), including an annotated bibliography. Additionally, write 1-2 solid [paragraphs of response]({{< baseurl >}}/pages/assignments/essay-critiques) to each of your profile article workshop partners and post on the class website. 
+Write a revised proposal for the {{% resource_link 6d7b6f32-13e4-c8cf-c485-796d172e9b0e "investigative essay" %}}, including an annotated bibliography. Additionally, write 1-2 solid {{% resource_link 0db94956-df48-17cd-16d9-d6fe5d0e6e78 "paragraphs of response" %}} to each of your profile article workshop partners and post on the class website. 
 
 ### No Assigned Readings
 
@@ -197,7 +198,7 @@ Class #15: The Research Process: Citing, Quoting, and Paraphrasing; Writing and 
 
 ### Assignment #15: Brainstorm Investigative Essay
 
-Look for sources, do some reading, take some notes, and do some thinking for your [investigative essay]({{< baseurl >}}/pages/assignments/investigative-essay).
+Look for sources, do some reading, take some notes, and do some thinking for your {{% resource_link 6d7b6f32-13e4-c8cf-c485-796d172e9b0e "investigative essay" %}}.
 
 ### Readings:
 
@@ -208,7 +209,7 @@ Chapter 4 provides some ways to think about structure. Chapter 7 has a lot of go
 Class #16: Organizing a Longer Article; Incorporating Sources and Voices
 ------------------------------------------------------------------------
 
-### Assignment #16: Revise [Profile Article]({{< baseurl >}}/pages/assignments/profile-article)
+### Assignment #16: Revise {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af "Profile Article" %}}
 
 Readings:
 
@@ -219,7 +220,7 @@ For class discussion: Besides being a compelling story, the essay is a good exam
 Class #17: Presenting Controversy: For Our Consideration: Earth or Mars?
 ------------------------------------------------------------------------
 
-### Assignment #17: Pre-Write for [Investigative Essay]({{< baseurl >}}/pages/assignments/investigative-essay)
+### Assignment #17: Pre-Write for {{% resource_link 6d7b6f32-13e4-c8cf-c485-796d172e9b0e "Investigative Essay" %}}
 
 ### No Assigned Readings
 
@@ -228,7 +229,7 @@ Class #18: Workshop Essays
 
 ### Assignment #18: Investigative Essay
 
-Write your draft for the [investigative essay]({{< baseurl >}}/pages/assignments/investigative-essay) and then prepare to workshop the essay in class.
+Write your draft for the {{% resource_link 6d7b6f32-13e4-c8cf-c485-796d172e9b0e "investigative essay" %}} and then prepare to workshop the essay in class.
 
 ### No Assigned Readings
 
@@ -237,7 +238,7 @@ Class #19: Workshop Essays
 
 ### Assignment #19: Critique Essays
 
-[Critique and respond]({{< baseurl >}}/pages/assignments/essay-critiques) to your workshop group members’ drafts of their investigative essays.
+{{% resource_link 0db94956-df48-17cd-16d9-d6fe5d0e6e78 "Critique and respond" %}} to your workshop group members’ drafts of their investigative essays.
 
 ### Readings:
 
@@ -255,35 +256,35 @@ For class discussion: What do you notice about these reviews? How do the reviewe
 Class #20: The Book Review: A Useful Genre!
 -------------------------------------------
 
-### Assignment #20: Revise [Profile Article]({{< baseurl >}}/pages/assignments/profile-article)
+### Assignment #20: Revise {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af "Profile Article" %}}
 
 ### No Assigned Readings
 
 Class #21: Revision Issues
 --------------------------
 
-### Assignment #21: Revise [Investigative Essay]({{< baseurl >}}/pages/assignments/investigative-essay)
+### Assignment #21: Revise {{% resource_link 6d7b6f32-13e4-c8cf-c485-796d172e9b0e "Investigative Essay" %}}
 
 ### No Assigned Readings
 
 Class #22: Revision Issues
 --------------------------
 
-### Assignment #22: Revise [Investigative Essay]({{< baseurl >}}/pages/assignments/investigative-essay)
+### Assignment #22: Revise {{% resource_link 6d7b6f32-13e4-c8cf-c485-796d172e9b0e "Investigative Essay" %}}
 
 ### No Assigned Readings
 
 Class #23: Other Media: Radio & Video
 -------------------------------------
 
-### Assignment #23: [Book Talk]({{< baseurl >}}/pages/assignments/book-talk)
+### Assignment #23: {{% resource_link 813ff894-c3fa-466e-d01a-8a8dedd51914 "Book Talk" %}}
 
 ### No Assigned Readings
 
 Class #24: Work on Revision Issues
 ----------------------------------
 
-### Assignment #24: [Book Talk]({{< baseurl >}}/pages/assignments/book-talk)
+### Assignment #24: {{% resource_link 813ff894-c3fa-466e-d01a-8a8dedd51914 "Book Talk" %}}
 
 ### No Assigned Readings
 
@@ -292,7 +293,7 @@ Class #25: Book Talks
 
 ### Assignment #25: Portfolio
 
-Assemble your [portfolio]({{< baseurl >}}/pages/assignments/portfolio), including re-revisions.
+Assemble your {{% resource_link d8584065-e2e0-413f-bad0-62ba0ec36965 "portfolio" %}}, including re-revisions.
 
 ### No Assigned Readings
 

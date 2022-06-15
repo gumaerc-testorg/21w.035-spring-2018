@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page includes information on how to critique essays.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
