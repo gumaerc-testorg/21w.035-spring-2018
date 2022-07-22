@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: 'This page contains all the possible options for the book talk. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Book Talk
+parent_type: CourseSection
 parent_uid: 813ff894-c3fa-466e-d01a-8a8dedd51914
 title: Book Talk Reading List
 uid: e0929fce-bae9-bd05-d801-9075c198bc10
 ---
 
-[< Back to Book Talk]({{< baseurl >}}/pages/assignments/book-talk)
+{{% resource_link "813ff894-c3fa-466e-d01a-8a8dedd51914" "« Back to Book Talk" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}

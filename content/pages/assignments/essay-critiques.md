@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page includes information on how to critique essays.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e62b9eeb-e621-c95b-38a6-f8e3249357b4
 title: Essay Critiques
 uid: 0db94956-df48-17cd-16d9-d6fe5d0e6e78

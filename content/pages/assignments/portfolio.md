@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This contains the instructions for the portfolio assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e62b9eeb-e621-c95b-38a6-f8e3249357b4
 title: Portfolio
 uid: d8584065-e2e0-413f-bad0-62ba0ec36965
