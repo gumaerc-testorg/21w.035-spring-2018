@@ -32,7 +32,9 @@
   },
   "course_title": "Science Writing and New Media: Science Writing for the Public",
   "course_description": "This class is an introduction to writing about science\u2014including nature, medicine and technology\u2014for general readers. In our reading and writing we explore the craft of making scientific concepts, and the work of scientists, accessible to the public through articles and essays.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.035",
   "course_image_thumbnail": {
@@ -42,6 +44,6 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "5f62726e-696b-4473-b6b5-9a478c5a2ea7",
+  "site_uid": "271dde5f-3354-4b4e-a493-0aefca554909",
   "title": "Course Metadata"
 }
