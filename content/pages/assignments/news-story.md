@@ -13,8 +13,8 @@ uid: 907097c0-8302-0ee5-6352-dcf3a2129046
 
 A story written as if for a general audience, based on one of the two assigned readings. 
 
-1.  Anderson, Kevin and Glen Peters. “[The Trouble with Negative Emissions](http://science.sciencemag.org/content/354/6309/182).” _Science_ 354, no. 6309 (2016): 182–193.
-2.  Yuen, C.M., C.A. Rodrigues, et al. “[Map the Gap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525371/).” _Public Health Action_ 5, no. 1 (2015): 45–58.
+1.  Anderson, Kevin and Glen Peters. “{{% resource_link "8f20b9d2-6155-4699-addd-7e9ec73728c9" "The Trouble with Negative Emissions" %}}.” _Science_ 354, no. 6309 (2016): 182–193.
+2.  Yuen, C.M., C.A. Rodrigues, et al. “{{% resource_link "e5fc5ef2-5be9-47f5-885b-b8a038f8aa93" "Map the Gap" %}}.” _Public Health Action_ 5, no. 1 (2015): 45–58.
 
 Timeline
 --------
