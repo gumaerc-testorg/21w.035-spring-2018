@@ -422,7 +422,7 @@ Richard Fortey. _Horseshoe Crabs and Velvet Worms: The Story of the Animals and 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262516105) David Mindell. _[Digital Apollo: Human and Machine in Spaceflight](https://mitpress.mit.edu/books/digital-apollo)_. MIT Press, 2011. 359 p.
+{{% resource_link "9f10ce5b-b8aa-46bc-9220-0a44b1a37762" "![Buy at MIT Press](/images/mp_logo.gif)" %}} David Mindell. _{{% resource_link "be46b718-b346-4816-8fea-e40dd8fb8567" "Digital Apollo: Human and Machine in Spaceflight" %}}_. MIT Press, 2011. 359 p.
 {{< tdclose >}}
 
 {{< trclose >}}
