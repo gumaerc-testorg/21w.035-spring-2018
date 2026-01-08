@@ -70,9 +70,9 @@ Class #5: Attitudes Towards Writing; What Do We Mean by Revision? 
 
 ### Readings:
 
-*   Tafton, Anne. “{{% resource_link "0fceb198-5da2-4847-8833-95dfb76b764c" "New way to stop the bleeding: Nanoscale biological coating developed at MIT could prevent battlefield deaths" %}}.” MIT News Office. January 10, 2012.
-*   Hardesty, Larry. “{{% resource_link "c1df23a2-377b-4a20-99ea-ab2a51fed307" "Imaging with an ‘optical brush’" %}}.” MIT News Office. February 12, 2016.
-*   Chu, Jennifer. “{{% resource_link "4ddc6428-c1a6-434a-9568-8b1a3fc926e7" "Microfluidics from LEGO bricks" %}}.” MIT News Office. January 30, 2018.
+*   Tafton, Anne. “[New way to stop the bleeding: Nanoscale biological coating developed at MIT could prevent battlefield deaths](http://web.mit.edu/newsoffice/2012/stop-bleeding-0110.html).” MIT News Office. January 10, 2012.
+*   Hardesty, Larry. “[Imaging with an ‘optical brush’](http://news.mit.edu/2016/imaging-optical-fibers-brush-0212).” MIT News Office. February 12, 2016.
+*   Chu, Jennifer. “[Microfluidics from LEGO bricks](http://news.mit.edu/2018/microfluidics-lego-bricks-0131).” MIT News Office. January 30, 2018.
 *   Hancock, Chapter 5, "The Nitty-Gritty" and "Refining Your Draft."
 
 As you read these stories, note what they have in common: what kinds of things do the writers do? Where does certain information, such as where a study is published, go? What do the introductions—or “leads,” as journalists call them—do? What is the take-away message—the biggest point—for each of these stories? Do the stories make it clear why this point matters? How is technical complexity handled? Do you notice images or analogies that the writers use to make the concepts more easily understood? We’ll spend most of class discussing news writing and these readings.  
@@ -86,9 +86,9 @@ Write a proposal for the {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af 
 
 ### Readings:
 
-*   The three student-written profiles in the {{% resource_link "e59bf9cb-5d6c-4773-8852-f37f48e9496b" "2013 _Angles_ online magazine" %}} of exemplary writing.
-*   “{{% resource_link "23999e93-61af-4557-b3c0-e0a358522657" "Spacesuits and Drones" %}}” by Andrew DeNucci from the 2016 _Angles_. 
-*   “{{% resource_link "2acdd2f6-7af3-417c-a86a-68be99e8dae1" "Light up and Clean up" %}}” by Karina Hinojosa from the 2017 _Angles_.
+*   The three student-written profiles in the [2013 _Angles_ online magazine](http://cmsw.mit.edu/angles/2013/) of exemplary writing.
+*   “[Spacesuits and Drones](http://cmsw.mit.edu/angles/2016/wp/spacesuits-and-drones/)” by Andrew DeNucci from the 2016 _Angles_. 
+*   “[Light up and Clean up](http://cmsw.mit.edu/angles/2017/light-up-and-clean-up/)” by Karina Hinojosa from the 2017 _Angles_.
 *   Hancock, Chapter 3, "Research and the Interview."
 
 You should make notes about what you read—what do you notice about the way the writers put their articles together? Begin making a list of elements that make up a good profile-type article.
@@ -172,10 +172,10 @@ Write a short 1 paragraph proposal for your {{% resource_link 6d7b6f32-13e4-c8cf
 
 ### Readings:
 
-*   “{{% resource_link "9beadf91-8169-427c-9c7e-68b6c54d5447" "Fusion: Joining the Quest for renewable Energy’s Holy Grail" %}}” by Milo Knowles, from the 2016 _Angles_.
-*   “{{% resource_link "f7cd565e-5827-47c3-b96d-0a05a73e008d" "Fukushima and the Bogey-man" %}}” by Rosie Sugrue.  (Note: Rosie is an especially accomplished writer.) 
-*   “{{% resource_link "72a04b7e-58d3-4884-ba36-f4dabcc6df28" "Anorexia: A Matter of Life and Breadth" %}}” by Minyi Lee.
-*   “{{% resource_link "4f2680ce-f880-46bf-8f94-d7b061c4883c" "Our Guts, Our Bodies, Ourselves" %}}” by Dalia Walzer.
+*   “[Fusion: Joining the Quest for renewable Energy’s Holy Grail](http://cmsw.mit.edu/angles/2016/wp/fusion-joining-the-quest-for-the-renewable-energys-holy-grail/)” by Milo Knowles, from the 2016 _Angles_.
+*   “[Fukushima and the Bogey-man](https://mitangles.wordpress.com/sugrue/)” by Rosie Sugrue.  (Note: Rosie is an especially accomplished writer.) 
+*   “[Anorexia: A Matter of Life and Breadth](http://cmsw.mit.edu/angles/2014/?page_id=707)” by Minyi Lee.
+*   “[Our Guts, Our Bodies, Ourselves](http://cmsw.mit.edu/angles/2014/?page_id=723)” by Dalia Walzer.
 
 Class #13: Library Session
 --------------------------
